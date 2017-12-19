@@ -1,4 +1,5 @@
 def third_challenge
+  epic_tragedy[:montague][:hero][:name][:status] = "dead"
   epic_tragedy = {
    :montague => {
       :patriarch => {:name => "Lord Montague",:age => "53"
@@ -25,6 +26,6 @@ def third_challenge
       :heroine_friends => []
    }
   }
-epic_tragedy[:montague][:hero][:name][:status] = "dead"
+
 
 end
